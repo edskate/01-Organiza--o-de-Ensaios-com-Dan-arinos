@@ -1,0 +1,29 @@
+.container-01{
+    background-color: #e31515;
+    color: #f8f3f3;
+    width: 500px;
+    border: 2px solid #0000ff;
+    margin: 3px;
+}
+.container-02{
+    background-color:greenyellow;
+    border: 2px solid #0000ff;
+    width: 500px;
+    margin: 4px;
+
+}
+body{
+margin: 10px;
+padding: 10px;
+}
+h2{
+    color: #0000ff;
+    margin: 10px ;
+}
+p{
+    margin: 10px ;
+}
+em{
+    color: #f70606;
+    text-shadow: 10px 10px 10px #000;
+}
